@@ -1,6 +1,6 @@
 NewsMonkey - React News App
 
-NewsMonkey is a simple, yet powerful news application built with React. It pulls the latest articles from the NewsAPI, categorizing them into sections like Business, Entertainment, Health, Science, Sports, and Technology. The app features a clean and responsive design, making it easy to navigate on any device, from mobile to desktop.
+NewsMonkey is a simple news application built with React. It pulls the latest articles from the NewsAPI, categorizing them into sections like Business, Entertainment, Health, Science, Sports, and Technology. The app features a clean and responsive design, making it easy to navigate on any device, from mobile to desktop.
 
 Key Features:
 
