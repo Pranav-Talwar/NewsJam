@@ -55,8 +55,8 @@ const NewsItem =(props) => {
               target="_blank"
               className="btn btn-dark"
               style={{
-                fontSize: "0.9rem", // Slightly larger font
-                padding: "6px 12px", // Adjust padding to increase size
+                fontSize: "0.9rem", 
+                padding: "6px 12px", 
               }}
             >
               Read More
