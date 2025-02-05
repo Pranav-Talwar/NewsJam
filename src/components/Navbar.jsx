@@ -9,7 +9,6 @@ const Navbar = (props )=>{
       <div>
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
           <div className="container-fluid">
-            {/* Brand */}
             <NavLink className="navbar-brand fw-bold text-uppercase me-3" to="/">
               NewsJam
             </NavLink>
