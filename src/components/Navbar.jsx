@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { NavLink } from 'react-router-dom'; // Use NavLink instead of Link
+import { NavLink } from 'react-router-dom'; 
 
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 
@@ -11,7 +11,7 @@ const Navbar = (props )=>{
           <div className="container-fluid">
             {/* Brand */}
             <NavLink className="navbar-brand fw-bold text-uppercase me-3" to="/">
-              NewsMonkey
+              NewsJam
             </NavLink>
 
            
