@@ -45,5 +45,4 @@
 
 <p>To use this app, you’ll need a valid API key from <a href="https://newsapi.org/">NewsAPI</a>. You can grab one by signing up on their website. Once you have your key, just replace the <code>YOUR_API_KEY</code> placeholder in <code>App.js</code> with your actual API key.</p>
 
-<h2>📜 License</h2>
-<p>This project is licensed under the MIT License.</p>
+
