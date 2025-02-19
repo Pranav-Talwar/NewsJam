@@ -32,9 +32,9 @@
 <h3>Setup Instructions</h3>
 <ol>
   <li>Clone the repository:</li>
-  <pre><code>git clone https://github.com/yourusername/eNewsJam.git</code></pre>
+  <pre><code>git clone https://github.com/Pranav-Talwar/NewsJam.git</code></pre>
   <li>Navigate to the project directory:</li>
-  <pre><code>cd eNewsJam</code></pre>
+  <pre><code>cd NewsJam</code></pre>
   <li>Install dependencies:</li>
   <pre><code>npm install</code></pre>
   <li>Replace <code>YOUR_API_KEY</code> in <code>App.js</code> with your actual NewsAPI key.</li>
