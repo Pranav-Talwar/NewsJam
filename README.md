@@ -14,6 +14,6 @@ Loading State: A loading spinner appears while the app fetches news, so you're a
 
 Dynamic Routing: Seamless navigation through different news sections with React Router.
 
-API Key:
+Disclaimer:
 To use this app, you’ll need a valid API key from NewsAPI. You can grab one by signing up on their website. Once you have your key, just replace the YOUR_API_KEY placeholder in App.js with your actual API key.
 
