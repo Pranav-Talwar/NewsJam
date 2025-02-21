@@ -4,7 +4,7 @@
 <p>NewsJam is a simple news application built with React. It pulls the latest articles from the NewsAPI, categorizing them into sections like Business, Entertainment, Health, Science, Sports, and Technology. The app features a clean and responsive design, making it easy to navigate on any device, from mobile to desktop.</p>
 
 <h2>🚀 Key Features</h2>
-
+ 
 <ul>
   <li>📢 <strong>Multiple News Categories</strong>: Access breaking news across different categories including Business, Entertainment, Health, Science, Sports, and Technology.</li>
   <li>📖 <strong>Pagination</strong>: Easily flip through articles with the "Previous" and "Next" buttons.</li>
