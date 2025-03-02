@@ -38,6 +38,8 @@
   <li>Install dependencies:</li>
   <pre><code>npm install</code></pre>
    <pre><code>npm install bootstrap@5.3.2</code></pre>
+      <pre><code>npm install react-router-dom</code></pre>
+
 
   <li>Replace <code>YOUR_API_KEY</code> in <code>App.js</code> with your actual NewsAPI key.</li>
   <li>Start the development server:</li>
