@@ -1,5 +1,5 @@
 <h1>📰 NewsJam - React News App</h1>
-<img src="https://raw.githubusercontent.com/Pranav-Talwar/NewsJam/main/public/NewsJam1qq.PNG" alt="Project Screenshot" />
+<img src="https://firebasestorage.googleapis.com/v0/b/polyconnect-7.firebasestorage.app/o/portfolio%2Fnewsjam%2FWhatsApp%20Image%202025-03-20%20at%2019.30.12_e645ffbf.jpg?alt=media&token=5e92fa75-7ce0-4021-a875-7b7ba83a237a" alt="Project Screenshot" />
 
 <p>NewsJam is a simple news application built with React. It pulls the latest articles from the NewsAPI, categorizing them into sections like Business, Entertainment, Health, Science, Sports, and Technology. The app features a clean and responsive design, making it easy to navigate on any device, from mobile to desktop.</p>
 
